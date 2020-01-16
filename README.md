@@ -1,5 +1,6 @@
 # Dental-care-analysis
 
+---
 **Learning Outcomes Assessed**
 
   The following course learning outcomes are assessed by completing this assessment:
@@ -26,6 +27,7 @@
 
   A2.Design and write program solutions to identified problems using accepted design constructs.
   
+  ---
   
  **Problem Details**
  
@@ -33,6 +35,8 @@
   
   **The CSV File**
   You will need to download the addresses.csv file from Moodle. The file contains 500 records across seven columns
+  
+---
   
  **PROGRAM**
  
@@ -67,7 +71,8 @@
     d. Display a graph comparing the overall average number of teeth lost for two given States
     
 3. To help with the readability of your code, you should use functions
-    
+   
+---
 
 # RESULT
 
@@ -87,5 +92,5 @@
 **OPTION 4**
 ![](images/option4.PNG)
 
-
+---
 >Keep Smiling And Work Harder
